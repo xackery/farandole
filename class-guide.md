@@ -8,13 +8,13 @@
 
 - Attributes: 2 STR, 2 CON
 - Abilities: 2 Warfare, 2 Perserverence
-- Skills: Battering Ram, Crippling Blow, Knights Step
+- Skills: Battering Ram, Crippling Blow, Knight Step
 
 ## Priest
 
 - Attributes: 2 INT, 2 CON
 - Abilities: 2 Warfare, 2 Perserverence
-- Skills: Consecration, Hymn of Mending, Judgement
+- Skills: Consecration, Hymn of Mending, Judgment
 
 ## Ranger
 
