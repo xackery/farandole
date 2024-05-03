@@ -1,3 +1,4 @@
+- [ ] Skill: Battering Ram - Rush and deals -> Rush and deal
 - [ ] Skill: Hymn of mending - title -> "Hymn of Mending", with capital M.
 - [ ] Skill: Hymn of mending - Cures and immunes to -> `Cures and makes target immune to`
 - [ ] Skill: Hymn of mending - Can be used to wound undeads -> `Can be used to wound undead`
@@ -5,3 +6,14 @@
 - [ ] Skill: Thorny Rose - Shoot 2 spots. -> Shoot 2 locations.
 - [ ] Skill: Thorny Rose - Pierce through enemies. -> Pierces through enemies.
 - [ ] Skill: Under the Belt - +50% Damage from invisible. -> +50% Damage when invisible.
+- [ ] Skill: Beehive - to enemies in radius. -> to enemies in a radius of ?m.
+- [ ] Skill: Death Rush - Rush and deals -> Rush and deal
+- [ ] Skill: Firelust - Whlie the lust is active -> While the lust is active
+- [ ] Skill: Haste - You or target ally is rejevenated\nCures Entangled.\n Cures and immunes to Crippled -> You or target ally is rejevenated.\nCures Entangled, cures and makes target immune to Crippled
+- [ ] Skill: Searing Daggers - Shoot 3 spots. -> Shoot 3 locations.
+- [ ] Skill: Lay On Hands - Can be used to wound undeads. -> Can be used to wound undead.
+- [ ] Skill: Armour of Frost - Cures and immunes -> Cures and makes target immune to
+- [ ] Skill: Armour of Frost - Can be used to wound undeads. -> Can be  used to wound undead.
+- [ ] Skill: Whirling Rush - Rush and deals -> Rush and deal
+- [ ] Skill: Overcast - to enemies in radius. -> to enemies in a radius of ?m.
+- [ ] Skill: Volt Assault - Shoot 3 spots. -> Shoot 3 locations.

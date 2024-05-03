@@ -4,53 +4,122 @@
 - 200+ skills only available on uniques and random items.
 - New origin and source skills for every characters.
 
-## Warrior
+## Aerotheurge
+
+- Attributes: 2 INT, 2 WIT
+- Abilities: 2 Aerotheurge, 2 Perserverance
+- Skills: Lightning Bolt, Overcast, Volt Assault
+
+## Beastmaster
+
+- Attributes: 2 STR, 2 WIT
+- Abilities: 2 Summoning, 2 Perserverance
+- Skills: Feline Shift, Capturing Traps, Lock On
+
+## Berserker
+
+- Attributes: 2 STR, 2 WIT
+- Abilities: 2 Pyrokinetic, 2 Perserverance
+- Skills: Firelust, Short Leap, Swipe
+
+## Conjurer
+
+- Attributes: 2 INT, 2 WIT
+- Abilities: 2 Summoning, 2 Perserverance
+- Skills: Dimensional Guillotine, Dimensional Bolts, Taunt'em
+
+## Deathknight
 
 - Attributes: 2 STR, 2 CON
-- Abilities: 2 Warfare, 2 Perserverence
-- Skills: Battering Ram, Crippling Blow, Knight Step
+- Abilities: 2 Necromancer, 2 Perserverance
+- Skills: Servant of Death, Death Rush, Tormenting Strike
+
+## Earthcaller
+
+- Attributes: 2 INT, 2 CON
+- Abilities: 2 Geomancer, 2 Perserverance
+- Skills: Fortify, Fossil Strike, Stone Fists
+
+## Hyodrophist
+
+- Attributes: 2 FIN, 2 INT
+- Abilities: 2 Hydrophist, 2 Perserverance
+- Skills: Armour of Frost, Global Cooling, Bubblebeam
+
+## Illusionist
+
+- Attributes: 2 INT, 2 WIT
+- Abilities: 2 Scoundrel, 2 Perserverance
+- Skills: Charm, Illusionary Fists, Prismatic Spray
+
+## Necromancer
+
+- Attributes: 2 INT, 2 CON
+- Abilities: 2 Necromancer, 2 Perserverance
+- Skills: Death Coil, Decrepit Wind, Mosquito Swarm
+
+## Paladin
+
+- Attributes: 2 STR, 2 CON
+- Abilities: 2 Hydrophist, 2 Perserverance
+- Skills: Lay On Hands, Communion Strike, Crusader Strike
+
+## Phalanx
+
+- Attributes: 2 INT, 2 CON
+- Abilities: 2 Warfare, 2 Perserverance
+- Skills: Stoneskin, Feel The Vibes, Jade Rush
 
 ## Priest
 
 - Attributes: 2 INT, 2 CON
-- Abilities: 2 Warfare, 2 Perserverence
+- Abilities: 2 Warfare, 2 Perserverance
 - Skills: Consecration, Hymn of Mending, Judgment
-
-## Ranger
-
-## Rogue
-
-## Shapeshifter
-
-## Beastmaster
-
-## Priest
-
-## Wayfarer
-
-## Illusionist
-
-## Transmuter
-
-## Conjurer
-
-## Deathknight
-
-## Berserker
-
-## Paladin
-
-## Swashbuckler
-
-## Phalanx
-
-## Necromancer
 
 ## Pyrokinesist
 
-## Hyodrophist
+- Attributes: 2 INT, 2 WIT
+- Abilities: 2 Pyrokinetic, 2 Perserverance
+- Skills: Haste, Ignition, Searing Daggers
 
-## Aerotheurge
+## Ranger
 
-## Earthcaller
+- Attributes: 2 STR, 2 FIN
+- Abilities: 2 Huntsman, 2 Perserverance
+- Skills: Flare Arrow, Pin Down, Ricochet
 
+## Rogue
+
+- Attributes: 2 STR, 2 FIN
+- Abilities: 2 Scoundrel, 2 Perserverance
+- Skills: Vault, Throwing Knife, Under the Belt
+
+## Shapeshifter
+
+- Attributes: 2 STR, 2 WIT
+- Abilities: 2 Polymorph, 2 Perserverance
+- Skills: Shapeshift Crocodile, Shapeshift Dog, Shapeshift Owl
+
+## Swashbuckler
+
+- Attributes: 2 FIN, 2 WIT
+- Abilities: 2 Aerotheurge, 2 Perserverance
+- Skills: Fouette, Combo Strike, Whirling Rush
+
+## Transmuter
+
+- Attributes: 2 INT, 2 WIT
+- Abilities: 2 Polymorph, 2 Perserverance
+- Skills: Swap Ground, Blood Transfusion, Polypacifism
+
+## Warrior
+
+- Attributes: 2 STR, 2 CON
+- Abilities: 2 Warfare, 2 Perserverance
+- Skills: Battering Ram, Crippling Blow, Knight Step
+
+## Wayfarer
+
+- Attributes: 2 FIN, 2 WIT
+- Abilities: 2 Huntsman, 2 Perserverance
+- Skills: Herbal Lore, Beehive, Thorny Rose
