@@ -1,3 +1,4 @@
+```
 Blunt:
 Bursted:
 Crippled:
@@ -10,3 +11,4 @@ Weak:
 Invisible:
 Internal Bleeding:
 Prey:
+```

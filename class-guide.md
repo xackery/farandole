@@ -6,15 +6,15 @@
 
 ## Warrior
 
-Attributes: 2 STR, 2 CON
-Abilities: 2 Warfare, 2 Perserverence
-Skills: Battering Ram, Crippling Blow, Knights Step
+- Attributes: 2 STR, 2 CON
+- Abilities: 2 Warfare, 2 Perserverence
+- Skills: Battering Ram, Crippling Blow, Knights Step
 
 ## Priest
 
-Attributes: 2 INT, 2 CON
-Abilities: 2 Warfare, 2 Perserverence
-Skills: Consecration, Hymn of Mending, Judgement
+- Attributes: 2 INT, 2 CON
+- Abilities: 2 Warfare, 2 Perserverence
+- Skills: Consecration, Hymn of Mending, Judgement
 
 ## Ranger
 
