@@ -1,0 +1,7 @@
+- [ ] Skill: Hymn of mending - title -> "Hymn of Mending", with capital M.
+- [ ] Skill: Hymn of mending - Cures and immunes to -> `Cures and makes target immune to`
+- [ ] Skill: Hymn of mending - Can be used to wound undeads -> `Can be used to wound undead`
+- [ ] Skill: Herbal Lore - Cures and immunes to -> `Cures and makes target immune to`
+- [ ] Skill: Thorny Rose - Shoot 2 spots. -> Shoot 2 locations
+- [ ] Skill: Thorny Rose - Pierece through enemies. -> Pierces through enemies.
+- [ ] Skill: Under the Belt - +50% Damage from invisible. -> +50% Damage when invisible.
