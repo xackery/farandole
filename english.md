@@ -1,3 +1,5 @@
+# Typos/English Corrections
+
 - [ ] Skill: Battering Ram - Rush and deals -> Rush and deal
 - [ ] Skill: Hymn of mending - title -> "Hymn of Mending", with capital M.
 - [ ] Skill: Hymn of mending - Cures and immunes to -> `Cures and makes target immune to`
@@ -17,3 +19,15 @@
 - [ ] Skill: Whirling Rush - Rush and deals -> Rush and deal
 - [ ] Skill: Overcast - to enemies in radius. -> to enemies in a radius of ?m.
 - [ ] Skill: Volt Assault - Shoot 3 spots. -> Shoot 3 locations.
+- [ ] Condition: Alcoolised -> Alcoholised
+- [ ] Action: Dispiration Ninja -> Remove meme?
+- [ ] Skill: Healing Spring - Effect on all characters in a dome. -> Affects all characters in a radius of ?m.
+- [ ] Skill: Dog Provoke - May reveal hidden ennemies in the area. -> May reveal hidden enemies in the area.
+
+# Feedback
+
+- Consider removing Ward as an ability for Venomous Amphibian and Earth Amphibian, it is strange to be ambushed by frogs just to spend their first turn buffing
+- Estoc works while polymoprhed into e.g. a dog
+- Taunt'em does a "Gotta catch em all" (memes disabled)
+- Caspa meme still plays (memes disabled)
+- Wilhelm scream plays when battering ram causes someone to fall down (memes disabled)
