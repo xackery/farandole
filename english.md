@@ -31,3 +31,9 @@
 - Taunt'em does a "Gotta catch em all" (memes disabled)
 - Caspa meme still plays (memes disabled)
 - Wilhelm scream plays when battering ram causes someone to fall down (memes disabled)
+- Servant of Death (Deathknight) removes the Ninja effect (auto invis) due to ordering
+- Meat Golems turn into bears then get stuck in cages
+- Zombies summoned by Massively Raise Zombie casts ward every first turn, which gets tedious since you can summon one every turn if corpses
+- Receiving holy water breaks invis
+- Bromance/beastmaster gets a "Who let the dogs out" meme (memes disabled)
+- Clear Mind cast from Mask of Strength reports it only lasts 3 turns, but in reality lasts an entire combat
